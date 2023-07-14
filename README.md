@@ -8,7 +8,7 @@ ES Lint - `No`
 . - `No`
 Tailwind - `No`  (we  are going to install explicitly through [Tailwind](https://tailwindcss.com/docs/installation/framework-guides))
 
-Follow the referred steps involved 👇 :
+Follow the referred steps involved ➡️ :
 `Install Tailwind CSS with Next.js -> ` [Taiwind-nextjs](https://tailwindcss.com/docs/guides/nextjs)
 
 ### ⚡Additional packages Installed
