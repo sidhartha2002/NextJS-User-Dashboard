@@ -1,4 +1,4 @@
-### Setups
+### ⚡Setups
 ```
 npx create-next-app@latest .   // it is going to install the latest nextjs version with all the required packages 
 ```
@@ -11,7 +11,7 @@ Tailwind - `No`  (we  are going to install explicitly through [Tailwind](https:/
 Follow the referred steps involved 👇 :
 `Install Tailwind CSS with Next.js -> ` [Taiwind-nextjs](https://tailwindcss.com/docs/guides/nextjs)
 
-### Additional packages Installed
+### ⚡Additional packages Installed
 - React Icons -> [react-icons](https://react-icons.github.io/react-icons/)
 ```
 npm install react-icons --save
@@ -22,8 +22,8 @@ npm install react-icons --save
 npm install --save chart.js react-chartjs-2
 ```
 
-### Implemented React Hooks 🚀
+### ⚡Implemented React Hooks 🚀
 - `useSate()`
 - `useEffect()`
 
-### Implemented React Routes 🚀
+### ⚡Implemented React Routes 🚀
