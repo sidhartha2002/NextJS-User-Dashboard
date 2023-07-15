@@ -1,6 +1,6 @@
 ### ⚡Setups
 ```
-npx create-next-app@latest .   // it is going to install the latest nextjs version with all the required packages 
+npx create-next-app@latest . 
 ```
 Typescript - `No`
 ES Lint - `No`
