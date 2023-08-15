@@ -2,11 +2,6 @@
 ```
 npx create-next-app@latest . 
 ```
-Typescript - `No`
-ES Lint - `No`
-. - `No`
-. - `No`
-Tailwind - `No`  (we  are going to install explicitly through [Tailwind](https://tailwindcss.com/docs/installation/framework-guides))
 
 Follow the referred steps involved ➡️ :
 `Install Tailwind CSS with Next.js -> ` [Taiwind-nextjs](https://tailwindcss.com/docs/guides/nextjs)
@@ -22,8 +17,13 @@ npm install react-icons --save
 npm install --save chart.js react-chartjs-2
 ```
 
-### ⚡Implemented React Hooks 🚀
+### ⚡Implemented React Hooks & React Routes 🚀
 - `useSate()`
-- `useEffect()`
+- `useEffect()` 
 
-### ⚡Implemented React Routes 🚀
+> - Minimalistic 
+> - Fully Responsive
+  
+Here is the glimpse of the website ⏬
+
+![nextjs-dashboard-github-cover](https://github.com/sidhartha2002/NextJS-User-Dashboard/assets/73163725/2de74f89-af67-4569-acbd-8e8203e1ef3f)
