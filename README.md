@@ -3,9 +3,6 @@
 npx create-next-app@latest . 
 ```
 
-Follow the referred steps involved ➡️ :
-`Install Tailwind CSS with Next.js -> ` [Taiwind-nextjs](https://tailwindcss.com/docs/guides/nextjs)
-
 ### ⚡Additional packages Installed
 - React Icons -> [react-icons](https://react-icons.github.io/react-icons/)
 ```
